@@ -1,0 +1,38 @@
+p{
+	color: #0404B4;
+	font-size: 40px;
+	font-weight: 800;
+}
+
+
+body{
+	background-image: url(https://www.localiza.com/brasil-site/pt-br/rede-de-agencias/PublishingImages/Gramado/Gramado-Cabecalho.jpg);
+	background-repeat: no-repeat;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+}
+
+
+
+
+footer{
+	clear: both;
+	background-color: blue;
+	height: 30px;
+	text-align: center;
+	padding: 10px 0px 0px 100px;
+}
+
+.container{
+	width: 960px;
+	margin: auto;
+}
+
+
+
